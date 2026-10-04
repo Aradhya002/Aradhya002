@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aradhya 👋
 
-<!--
-**Aradhya002/Aradhya002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student at SKNCOE.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔍 License plate detection with YOLOv8 for Smart India Hackathon 2026
+- 🧮 Practicing data structures and algorithms in C++
+- 🌐 Learning backend development (Node.js, Express) as part of my college E-Cell tech team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+C++ · Python · YOLOv8 · Computer Vision · Git · Google Colab · Node.js (learning)
+
+## Featured project
+[License Plate Detection with YOLOv8](https://github.com/Aradhya002/license-plate-detection-Yolo): a fine-tuned YOLOv8 model that detects number plates in images and video frames.
